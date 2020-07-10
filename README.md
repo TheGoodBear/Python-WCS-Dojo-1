@@ -31,3 +31,21 @@ Spécifications techniques :
 
 Règles :
 - On ne peut pas effacer ce qui a été fait, sauf si celui qui l'a fait est d'accord
+
+
+<!-- Def des import -->
+import random
+
+<!-- def des fonction -->
+
+
+
+<!-- def de variable -->
+Energy = 0
+container = []
+trainway = []
+service_station = []
+pick_up = True
+
+
+<!-- def du main -->
